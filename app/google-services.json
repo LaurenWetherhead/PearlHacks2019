@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "925814437287",
+    "firebase_url": "https://pearlhacks-c4c86.firebaseio.com",
+    "project_id": "pearlhacks-c4c86",
+    "storage_bucket": "pearlhacks-c4c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925814437287:android:ead72945aae4461d",
+        "android_client_info": {
+          "package_name": "edu.gatech.juniordesign.pearlhacks2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925814437287-vmhqare0ilo9f4645lbpm65cr4faaplu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3jIwWvdWehKl82X6fbtlWTVyn4SHOOYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
